@@ -1,0 +1,6 @@
+C:\Users\Tietokone\source\repos\Palkanlasku\Palkanlasku\bin\Debug\Palkanlasku.exe.config
+C:\Users\Tietokone\source\repos\Palkanlasku\Palkanlasku\bin\Debug\Palkanlasku.exe
+C:\Users\Tietokone\source\repos\Palkanlasku\Palkanlasku\bin\Debug\Palkanlasku.pdb
+C:\Users\Tietokone\source\repos\Palkanlasku\Palkanlasku\obj\Debug\Palkanlasku.csproj.CoreCompileInputs.cache
+C:\Users\Tietokone\source\repos\Palkanlasku\Palkanlasku\obj\Debug\Palkanlasku.exe
+C:\Users\Tietokone\source\repos\Palkanlasku\Palkanlasku\obj\Debug\Palkanlasku.pdb
