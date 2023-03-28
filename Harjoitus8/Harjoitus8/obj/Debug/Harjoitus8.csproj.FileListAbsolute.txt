@@ -1,0 +1,7 @@
+C:\Users\pauli.kumpulainen\Documents\GitHub\Csharp-perusteet\Harjoitus8\Harjoitus8\bin\Debug\Harjoitus8.exe.config
+C:\Users\pauli.kumpulainen\Documents\GitHub\Csharp-perusteet\Harjoitus8\Harjoitus8\bin\Debug\Harjoitus8.exe
+C:\Users\pauli.kumpulainen\Documents\GitHub\Csharp-perusteet\Harjoitus8\Harjoitus8\bin\Debug\Harjoitus8.pdb
+C:\Users\pauli.kumpulainen\Documents\GitHub\Csharp-perusteet\Harjoitus8\Harjoitus8\obj\Debug\Harjoitus8.csproj.CoreCompileInputs.cache
+C:\Users\pauli.kumpulainen\Documents\GitHub\Csharp-perusteet\Harjoitus8\Harjoitus8\obj\Debug\Harjoitus8.exe
+C:\Users\pauli.kumpulainen\Documents\GitHub\Csharp-perusteet\Harjoitus8\Harjoitus8\obj\Debug\Harjoitus8.pdb
+C:\Users\pauli.kumpulainen\Documents\GitHub\Csharp-perusteet\Harjoitus8\Harjoitus8\obj\Debug\Harjoitus8.csproj.AssemblyReference.cache

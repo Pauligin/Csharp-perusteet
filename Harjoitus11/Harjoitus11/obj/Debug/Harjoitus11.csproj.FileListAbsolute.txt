@@ -1,0 +1,7 @@
+C:\Users\pauli.kumpulainen\Documents\GitHub\Csharp-perusteet\Harjoitus11\Harjoitus11\bin\Debug\Harjoitus11.exe.config
+C:\Users\pauli.kumpulainen\Documents\GitHub\Csharp-perusteet\Harjoitus11\Harjoitus11\bin\Debug\Harjoitus11.exe
+C:\Users\pauli.kumpulainen\Documents\GitHub\Csharp-perusteet\Harjoitus11\Harjoitus11\bin\Debug\Harjoitus11.pdb
+C:\Users\pauli.kumpulainen\Documents\GitHub\Csharp-perusteet\Harjoitus11\Harjoitus11\obj\Debug\Harjoitus11.csproj.AssemblyReference.cache
+C:\Users\pauli.kumpulainen\Documents\GitHub\Csharp-perusteet\Harjoitus11\Harjoitus11\obj\Debug\Harjoitus11.csproj.CoreCompileInputs.cache
+C:\Users\pauli.kumpulainen\Documents\GitHub\Csharp-perusteet\Harjoitus11\Harjoitus11\obj\Debug\Harjoitus11.exe
+C:\Users\pauli.kumpulainen\Documents\GitHub\Csharp-perusteet\Harjoitus11\Harjoitus11\obj\Debug\Harjoitus11.pdb
