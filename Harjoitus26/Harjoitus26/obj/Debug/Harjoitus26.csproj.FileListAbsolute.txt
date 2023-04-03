@@ -1,0 +1,7 @@
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\Harjoitus26\Harjoitus26\bin\Debug\Harjoitus26.exe.config
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\Harjoitus26\Harjoitus26\bin\Debug\Harjoitus26.exe
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\Harjoitus26\Harjoitus26\bin\Debug\Harjoitus26.pdb
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\Harjoitus26\Harjoitus26\obj\Debug\Harjoitus26.csproj.AssemblyReference.cache
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\Harjoitus26\Harjoitus26\obj\Debug\Harjoitus26.csproj.CoreCompileInputs.cache
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\Harjoitus26\Harjoitus26\obj\Debug\Harjoitus26.exe
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\Harjoitus26\Harjoitus26\obj\Debug\Harjoitus26.pdb

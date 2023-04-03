@@ -1,0 +1,7 @@
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\19Lämpötila_muunnin\19Lämpötila_muunnin\bin\Debug\19Lämpötila_muunnin.exe.config
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\19Lämpötila_muunnin\19Lämpötila_muunnin\bin\Debug\19Lämpötila_muunnin.exe
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\19Lämpötila_muunnin\19Lämpötila_muunnin\bin\Debug\19Lämpötila_muunnin.pdb
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\19Lämpötila_muunnin\19Lämpötila_muunnin\obj\Debug\19Lämpötila_muunnin.csproj.AssemblyReference.cache
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\19Lämpötila_muunnin\19Lämpötila_muunnin\obj\Debug\19Lämpötila_muunnin.csproj.CoreCompileInputs.cache
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\19Lämpötila_muunnin\19Lämpötila_muunnin\obj\Debug\19Lämpötila_muunnin.exe
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\19Lämpötila_muunnin\19Lämpötila_muunnin\obj\Debug\19Lämpötila_muunnin.pdb
