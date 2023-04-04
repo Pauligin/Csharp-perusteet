@@ -1,0 +1,7 @@
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\Csharp28\Csharp28\bin\Debug\Csharp28.exe.config
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\Csharp28\Csharp28\bin\Debug\Csharp28.exe
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\Csharp28\Csharp28\bin\Debug\Csharp28.pdb
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\Csharp28\Csharp28\obj\Debug\Csharp28.csproj.AssemblyReference.cache
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\Csharp28\Csharp28\obj\Debug\Csharp28.csproj.CoreCompileInputs.cache
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\Csharp28\Csharp28\obj\Debug\Csharp28.exe
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\Csharp28\Csharp28\obj\Debug\Csharp28.pdb

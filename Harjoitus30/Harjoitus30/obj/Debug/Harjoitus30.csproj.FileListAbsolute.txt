@@ -1,0 +1,6 @@
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\Harjoitus30\Harjoitus30\bin\Debug\Harjoitus30.exe.config
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\Harjoitus30\Harjoitus30\bin\Debug\Harjoitus30.exe
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\Harjoitus30\Harjoitus30\bin\Debug\Harjoitus30.pdb
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\Harjoitus30\Harjoitus30\obj\Debug\Harjoitus30.csproj.CoreCompileInputs.cache
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\Harjoitus30\Harjoitus30\obj\Debug\Harjoitus30.exe
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\Harjoitus30\Harjoitus30\obj\Debug\Harjoitus30.pdb

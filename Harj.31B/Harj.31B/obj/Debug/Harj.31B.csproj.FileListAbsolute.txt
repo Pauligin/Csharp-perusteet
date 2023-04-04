@@ -1,0 +1,7 @@
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\Harj.31B\Harj.31B\bin\Debug\Harj.31B.exe.config
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\Harj.31B\Harj.31B\bin\Debug\Harj.31B.exe
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\Harj.31B\Harj.31B\bin\Debug\Harj.31B.pdb
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\Harj.31B\Harj.31B\obj\Debug\Harj.31B.csproj.CoreCompileInputs.cache
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\Harj.31B\Harj.31B\obj\Debug\Harj.31B.exe
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\Harj.31B\Harj.31B\obj\Debug\Harj.31B.pdb
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\Harj.31B\Harj.31B\obj\Debug\Harj.31B.csproj.AssemblyReference.cache
