@@ -10,22 +10,31 @@ namespace Harj._31B
     {
         static void Main(string[] args)
         {
-            //31B C# Toisto: Lukujen summa ja keskiarvo
+            Console.Write("Syötä luku, johon asti tulostetaan: ");
+            int number = int.Parse(Console.ReadLine());
 
-            Console.Write("Montako lukua summataan: ");
-            int numbersToSum = int.Parse(Console.ReadLine());
-            double sum = 0; // luodaan summa muuttuja silmukan ulkopuolella,
-                         // muuten muuttuja aina resetoituu.
+            int i = 1;
 
-            //k:4, 0, 1, 2, 3 => 4 kierrosta
-            for(int i = 0; i < numbersToSum; i++)
+            Console.Write("Parillinen / Pariton: ");
+            string input = Console.ReadLine();
+
+            while (i <= number)
             {
-                Console.Write($"Anna luku {i}: ");
-                sum = sum + int.Parse(Console.ReadLine());
+                if (i % 2 != 0 && input == "Pariton")
+                {
+                    Console.WriteLine(i);
+                }
+                else if (i % 2 == 0 && input == "Parillinen")
+                {
+                    Console.WriteLine(i);
+                }
+                else
+                {
+                    Console.WriteLine("Virheellinen valinta!");
+                }
+                i++;
             }
-
-            Console.WriteLine($"Summa on: {sum} ja summan keskiarvo on: {sum / numbersToSum}");
-
+        
             Console.ReadKey();
         }
     }

@@ -1,0 +1,6 @@
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\Salasana\Salasana\bin\Debug\Salasana.exe.config
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\Salasana\Salasana\bin\Debug\Salasana.exe
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\Salasana\Salasana\bin\Debug\Salasana.pdb
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\Salasana\Salasana\obj\Debug\Salasana.csproj.CoreCompileInputs.cache
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\Salasana\Salasana\obj\Debug\Salasana.exe
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\Salasana\Salasana\obj\Debug\Salasana.pdb
