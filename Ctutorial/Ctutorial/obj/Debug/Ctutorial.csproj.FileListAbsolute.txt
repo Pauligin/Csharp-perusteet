@@ -1,0 +1,7 @@
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\Ctutorial\Ctutorial\bin\Debug\Ctutorial.exe.config
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\Ctutorial\Ctutorial\bin\Debug\Ctutorial.exe
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\Ctutorial\Ctutorial\bin\Debug\Ctutorial.pdb
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\Ctutorial\Ctutorial\obj\Debug\Ctutorial.csproj.AssemblyReference.cache
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\Ctutorial\Ctutorial\obj\Debug\Ctutorial.csproj.CoreCompileInputs.cache
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\Ctutorial\Ctutorial\obj\Debug\Ctutorial.exe
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\Ctutorial\Ctutorial\obj\Debug\Ctutorial.pdb

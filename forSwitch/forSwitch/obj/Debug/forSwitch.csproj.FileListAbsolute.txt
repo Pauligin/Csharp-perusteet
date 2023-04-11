@@ -1,0 +1,7 @@
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\forSwitch\forSwitch\bin\Debug\forSwitch.exe.config
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\forSwitch\forSwitch\bin\Debug\forSwitch.exe
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\forSwitch\forSwitch\bin\Debug\forSwitch.pdb
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\forSwitch\forSwitch\obj\Debug\forSwitch.csproj.AssemblyReference.cache
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\forSwitch\forSwitch\obj\Debug\forSwitch.csproj.CoreCompileInputs.cache
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\forSwitch\forSwitch\obj\Debug\forSwitch.exe
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\forSwitch\forSwitch\obj\Debug\forSwitch.pdb

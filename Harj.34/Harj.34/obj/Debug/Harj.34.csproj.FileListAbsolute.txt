@@ -1,0 +1,7 @@
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\Harj.34\Harj.34\bin\Debug\Harj.34.exe.config
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\Harj.34\Harj.34\bin\Debug\Harj.34.exe
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\Harj.34\Harj.34\bin\Debug\Harj.34.pdb
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\Harj.34\Harj.34\obj\Debug\Harj.34.csproj.AssemblyReference.cache
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\Harj.34\Harj.34\obj\Debug\Harj.34.csproj.CoreCompileInputs.cache
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\Harj.34\Harj.34\obj\Debug\Harj.34.exe
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\Harj.34\Harj.34\obj\Debug\Harj.34.pdb
