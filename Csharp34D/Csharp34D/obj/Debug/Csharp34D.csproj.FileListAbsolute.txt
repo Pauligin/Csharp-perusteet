@@ -1,0 +1,7 @@
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\Csharp34D\Csharp34D\bin\Debug\Csharp34D.exe.config
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\Csharp34D\Csharp34D\bin\Debug\Csharp34D.exe
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\Csharp34D\Csharp34D\bin\Debug\Csharp34D.pdb
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\Csharp34D\Csharp34D\obj\Debug\Csharp34D.csproj.AssemblyReference.cache
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\Csharp34D\Csharp34D\obj\Debug\Csharp34D.csproj.CoreCompileInputs.cache
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\Csharp34D\Csharp34D\obj\Debug\Csharp34D.exe
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\Csharp34D\Csharp34D\obj\Debug\Csharp34D.pdb
