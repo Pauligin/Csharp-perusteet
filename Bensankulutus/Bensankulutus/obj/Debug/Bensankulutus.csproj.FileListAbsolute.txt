@@ -1,0 +1,7 @@
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\Bensankulutus\Bensankulutus\bin\Debug\Bensankulutus.exe.config
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\Bensankulutus\Bensankulutus\bin\Debug\Bensankulutus.exe
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\Bensankulutus\Bensankulutus\bin\Debug\Bensankulutus.pdb
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\Bensankulutus\Bensankulutus\obj\Debug\Bensankulutus.csproj.AssemblyReference.cache
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\Bensankulutus\Bensankulutus\obj\Debug\Bensankulutus.csproj.CoreCompileInputs.cache
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\Bensankulutus\Bensankulutus\obj\Debug\Bensankulutus.exe
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\Bensankulutus\Bensankulutus\obj\Debug\Bensankulutus.pdb

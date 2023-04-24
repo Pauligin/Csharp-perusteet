@@ -1,0 +1,7 @@
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\LampotilaMuunnin\LampotilaMuunnin\bin\Debug\LampotilaMuunnin.exe.config
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\LampotilaMuunnin\LampotilaMuunnin\bin\Debug\LampotilaMuunnin.exe
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\LampotilaMuunnin\LampotilaMuunnin\bin\Debug\LampotilaMuunnin.pdb
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\LampotilaMuunnin\LampotilaMuunnin\obj\Debug\LampotilaMuunnin.csproj.AssemblyReference.cache
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\LampotilaMuunnin\LampotilaMuunnin\obj\Debug\LampotilaMuunnin.csproj.CoreCompileInputs.cache
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\LampotilaMuunnin\LampotilaMuunnin\obj\Debug\LampotilaMuunnin.exe
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\LampotilaMuunnin\LampotilaMuunnin\obj\Debug\LampotilaMuunnin.pdb

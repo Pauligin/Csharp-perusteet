@@ -1,0 +1,7 @@
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\FunktioKolmionpintaAla\FunktioKolmionpintaAla\bin\Debug\FunktioKolmionpintaAla.exe.config
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\FunktioKolmionpintaAla\FunktioKolmionpintaAla\bin\Debug\FunktioKolmionpintaAla.exe
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\FunktioKolmionpintaAla\FunktioKolmionpintaAla\bin\Debug\FunktioKolmionpintaAla.pdb
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\FunktioKolmionpintaAla\FunktioKolmionpintaAla\obj\Debug\FunktioKolmionpintaAla.csproj.AssemblyReference.cache
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\FunktioKolmionpintaAla\FunktioKolmionpintaAla\obj\Debug\FunktioKolmionpintaAla.csproj.CoreCompileInputs.cache
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\FunktioKolmionpintaAla\FunktioKolmionpintaAla\obj\Debug\FunktioKolmionpintaAla.exe
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\FunktioKolmionpintaAla\FunktioKolmionpintaAla\obj\Debug\FunktioKolmionpintaAla.pdb

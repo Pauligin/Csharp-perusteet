@@ -1,0 +1,7 @@
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\TutorialYoutube\TutorialYoutube\bin\Debug\TutorialYoutube.exe.config
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\TutorialYoutube\TutorialYoutube\bin\Debug\TutorialYoutube.exe
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\TutorialYoutube\TutorialYoutube\bin\Debug\TutorialYoutube.pdb
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\TutorialYoutube\TutorialYoutube\obj\Debug\TutorialYoutube.csproj.AssemblyReference.cache
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\TutorialYoutube\TutorialYoutube\obj\Debug\TutorialYoutube.csproj.CoreCompileInputs.cache
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\TutorialYoutube\TutorialYoutube\obj\Debug\TutorialYoutube.exe
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\TutorialYoutube\TutorialYoutube\obj\Debug\TutorialYoutube.pdb

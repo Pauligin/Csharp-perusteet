@@ -1,0 +1,7 @@
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\1804Harjoitukset\1804Harjoitukset\bin\Debug\1804Harjoitukset.exe.config
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\1804Harjoitukset\1804Harjoitukset\bin\Debug\1804Harjoitukset.exe
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\1804Harjoitukset\1804Harjoitukset\bin\Debug\1804Harjoitukset.pdb
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\1804Harjoitukset\1804Harjoitukset\obj\Debug\1804Harjoitukset.csproj.AssemblyReference.cache
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\1804Harjoitukset\1804Harjoitukset\obj\Debug\1804Harjoitukset.csproj.CoreCompileInputs.cache
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\1804Harjoitukset\1804Harjoitukset\obj\Debug\1804Harjoitukset.exe
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\1804Harjoitukset\1804Harjoitukset\obj\Debug\1804Harjoitukset.pdb

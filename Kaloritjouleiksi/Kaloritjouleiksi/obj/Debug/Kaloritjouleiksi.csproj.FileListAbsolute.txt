@@ -1,0 +1,7 @@
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\Kaloritjouleiksi\Kaloritjouleiksi\bin\Debug\Kaloritjouleiksi.exe.config
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\Kaloritjouleiksi\Kaloritjouleiksi\bin\Debug\Kaloritjouleiksi.exe
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\Kaloritjouleiksi\Kaloritjouleiksi\bin\Debug\Kaloritjouleiksi.pdb
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\Kaloritjouleiksi\Kaloritjouleiksi\obj\Debug\Kaloritjouleiksi.csproj.AssemblyReference.cache
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\Kaloritjouleiksi\Kaloritjouleiksi\obj\Debug\Kaloritjouleiksi.csproj.CoreCompileInputs.cache
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\Kaloritjouleiksi\Kaloritjouleiksi\obj\Debug\Kaloritjouleiksi.exe
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\Kaloritjouleiksi\Kaloritjouleiksi\obj\Debug\Kaloritjouleiksi.pdb

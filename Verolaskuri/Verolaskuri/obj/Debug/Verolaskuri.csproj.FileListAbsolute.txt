@@ -1,0 +1,7 @@
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\Verolaskuri\Verolaskuri\bin\Debug\Verolaskuri.exe.config
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\Verolaskuri\Verolaskuri\bin\Debug\Verolaskuri.exe
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\Verolaskuri\Verolaskuri\bin\Debug\Verolaskuri.pdb
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\Verolaskuri\Verolaskuri\obj\Debug\Verolaskuri.csproj.AssemblyReference.cache
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\Verolaskuri\Verolaskuri\obj\Debug\Verolaskuri.csproj.CoreCompileInputs.cache
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\Verolaskuri\Verolaskuri\obj\Debug\Verolaskuri.exe
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\Verolaskuri\Verolaskuri\obj\Debug\Verolaskuri.pdb
