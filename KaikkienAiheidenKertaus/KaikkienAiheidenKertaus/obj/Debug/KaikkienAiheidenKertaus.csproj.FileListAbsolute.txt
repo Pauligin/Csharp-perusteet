@@ -1,0 +1,7 @@
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\KaikkienAiheidenKertaus\KaikkienAiheidenKertaus\bin\Debug\KaikkienAiheidenKertaus.exe.config
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\KaikkienAiheidenKertaus\KaikkienAiheidenKertaus\bin\Debug\KaikkienAiheidenKertaus.exe
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\KaikkienAiheidenKertaus\KaikkienAiheidenKertaus\bin\Debug\KaikkienAiheidenKertaus.pdb
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\KaikkienAiheidenKertaus\KaikkienAiheidenKertaus\obj\Debug\KaikkienAiheidenKertaus.csproj.AssemblyReference.cache
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\KaikkienAiheidenKertaus\KaikkienAiheidenKertaus\obj\Debug\KaikkienAiheidenKertaus.csproj.CoreCompileInputs.cache
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\KaikkienAiheidenKertaus\KaikkienAiheidenKertaus\obj\Debug\KaikkienAiheidenKertaus.exe
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\KaikkienAiheidenKertaus\KaikkienAiheidenKertaus\obj\Debug\KaikkienAiheidenKertaus.pdb

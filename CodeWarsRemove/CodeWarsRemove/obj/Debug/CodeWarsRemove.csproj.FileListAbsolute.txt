@@ -1,0 +1,7 @@
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\CodeWarsRemove\CodeWarsRemove\bin\Debug\CodeWarsRemove.exe.config
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\CodeWarsRemove\CodeWarsRemove\bin\Debug\CodeWarsRemove.exe
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\CodeWarsRemove\CodeWarsRemove\bin\Debug\CodeWarsRemove.pdb
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\CodeWarsRemove\CodeWarsRemove\obj\Debug\CodeWarsRemove.csproj.AssemblyReference.cache
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\CodeWarsRemove\CodeWarsRemove\obj\Debug\CodeWarsRemove.csproj.CoreCompileInputs.cache
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\CodeWarsRemove\CodeWarsRemove\obj\Debug\CodeWarsRemove.exe
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\CodeWarsRemove\CodeWarsRemove\obj\Debug\CodeWarsRemove.pdb

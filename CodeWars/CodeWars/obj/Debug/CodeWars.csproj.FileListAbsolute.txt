@@ -1,0 +1,7 @@
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\CodeWars\CodeWars\bin\Debug\CodeWars.exe.config
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\CodeWars\CodeWars\bin\Debug\CodeWars.exe
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\CodeWars\CodeWars\bin\Debug\CodeWars.pdb
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\CodeWars\CodeWars\obj\Debug\CodeWars.csproj.AssemblyReference.cache
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\CodeWars\CodeWars\obj\Debug\CodeWars.csproj.CoreCompileInputs.cache
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\CodeWars\CodeWars\obj\Debug\CodeWars.exe
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\CodeWars\CodeWars\obj\Debug\CodeWars.pdb

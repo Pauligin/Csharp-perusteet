@@ -1,0 +1,7 @@
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\Korttipeli\Korttipeli\bin\Debug\Korttipeli.exe.config
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\Korttipeli\Korttipeli\bin\Debug\Korttipeli.exe
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\Korttipeli\Korttipeli\bin\Debug\Korttipeli.pdb
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\Korttipeli\Korttipeli\obj\Debug\Korttipeli.csproj.AssemblyReference.cache
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\Korttipeli\Korttipeli\obj\Debug\Korttipeli.csproj.CoreCompileInputs.cache
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\Korttipeli\Korttipeli\obj\Debug\Korttipeli.exe
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\Korttipeli\Korttipeli\obj\Debug\Korttipeli.pdb

@@ -1,0 +1,7 @@
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\MeterConverter\MeterConverter\bin\Debug\MeterConverter.exe.config
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\MeterConverter\MeterConverter\bin\Debug\MeterConverter.exe
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\MeterConverter\MeterConverter\bin\Debug\MeterConverter.pdb
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\MeterConverter\MeterConverter\obj\Debug\MeterConverter.csproj.AssemblyReference.cache
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\MeterConverter\MeterConverter\obj\Debug\MeterConverter.csproj.CoreCompileInputs.cache
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\MeterConverter\MeterConverter\obj\Debug\MeterConverter.exe
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\MeterConverter\MeterConverter\obj\Debug\MeterConverter.pdb

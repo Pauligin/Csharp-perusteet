@@ -1,0 +1,7 @@
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\YoutubeCtuto\YoutubeCtuto\bin\Debug\YoutubeCtuto.exe.config
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\YoutubeCtuto\YoutubeCtuto\bin\Debug\YoutubeCtuto.exe
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\YoutubeCtuto\YoutubeCtuto\bin\Debug\YoutubeCtuto.pdb
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\YoutubeCtuto\YoutubeCtuto\obj\Debug\YoutubeCtuto.csproj.AssemblyReference.cache
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\YoutubeCtuto\YoutubeCtuto\obj\Debug\YoutubeCtuto.csproj.CoreCompileInputs.cache
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\YoutubeCtuto\YoutubeCtuto\obj\Debug\YoutubeCtuto.exe
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\YoutubeCtuto\YoutubeCtuto\obj\Debug\YoutubeCtuto.pdb

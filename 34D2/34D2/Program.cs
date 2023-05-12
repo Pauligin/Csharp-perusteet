@@ -10,19 +10,34 @@ namespace _34D2
     {
         static void Main(string[] args)
         {
-            //String: Etsi kirjaimia merkkijonosta Listaan
+            ////String: Etsi kirjaimia merkkijonosta Listaan
 
-            string merkkijono1 = "Tämä on ensimmäinen merkkijono";
-            string merkkijono2 = "Tämä on toinen merkkijono";
-            List<(char, int)> charsNotInCommon = new List<(char, int)>();
+            string merkkijono = "Tämä on merkkijono";
 
-            foreach (char c in merkkijono1 + merkkijono2)
+            List<(char, int)> charsIncommon = new List<(char, int)>();
+
+            foreach (char c in merkkijono)
             {
-                if (!merkkijono1.Contains(c) || !merkkijono2.Contains(c))
+                if (char.IsUpper(c))
                 {
-                    charsNotInCommon.Add((c, (merkkijono1 + merkkijono2).IndexOf(c)));
+                    var match = charsIncommon.Find(tuple => tuple.Item1 == c);
+
+                    if (match == default((char, int)))
+                    {
+                        charsIncommon.Add((c, 1));
+                    }
+                    else
+                    {
+                        int count = match.Item2;
+                        charsIncommon[charsIncommon.IndexOf(match)] = (c, count + 1);
+                    }
                 }
             }
+            foreach ((char c, int count) in charsIncommon)
+            {
+                Console.WriteLine($"Merkki {0} esiintyi {1} kertaa", c, count);
+            }
+
 
             Console.ReadKey();
 
