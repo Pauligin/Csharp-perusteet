@@ -23,6 +23,7 @@ namespace KaikkienAiheidenKertaus
 
             //Console.ReadKey();
             #endregion
+
             //2. Valintarakenteet
             #region
             //Console.Write("Kuinka paljon sinun autollasi on ajettu? ");
@@ -57,11 +58,37 @@ namespace KaikkienAiheidenKertaus
             //}
             //Console.ReadLine();
             #endregion
-            //3. Silmukat
-            #region
 
+            //3. Silmukat + List
+            #region
+            //string userInput = "kyllä";
+            //while (userInput == "kyllä")
+            //{
+            //    Console.Write("Syötä auton merkki:");
+            //    string merkki = Console.ReadLine();
+
+            //    Console.WriteLine("Syötä auton malli:");
+            //    string malli = Console.ReadLine();
+
+            //    Console.WriteLine($"Valitsit auton {merkki} {malli}");
+
+            //    Console.WriteLine("Syötä (kyllä) jos haluat valita uuden auton, muutoin mukavaa päivänjatkoa!");
+            //    userInput = Console.ReadLine();
+            //}
+
+
+            //List<string> carBrands = new List<string>() { "Toyota", "Ford", "Nissan" };
+
+            //Console.WriteLine("Automerkit:");
+            //foreach (string brand in carBrands)
+            //{
+            //    Console.WriteLine(brand);
+            //}
+
+            //Console.ReadKey();
             #endregion
-            //4. Taulukot ja listat
+
+            //4. Taulukot ja listat + For
             #region
             //int autotallinKoko = 3;
             //string[] autot = new string[autotallinKoko];
@@ -77,12 +104,23 @@ namespace KaikkienAiheidenKertaus
             //}
 
 
-            Console.ReadLine();
+            //Console.ReadLine();
             #endregion
+
             //5. Funktio ja luokat
             #region
+            //Car auto1 = new Car("BMW", 2022);
+            //Car auto2 = new Car("Jeep", 2000);
 
+            //auto1.carsPresentation();
+            //auto2.carsPresentation();
+
+            //Console.ReadKey();
             #endregion
+
+
+
+
 
         }
     }

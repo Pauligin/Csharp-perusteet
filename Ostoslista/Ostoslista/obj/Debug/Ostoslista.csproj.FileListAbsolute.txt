@@ -1,0 +1,7 @@
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\Ostoslista\Ostoslista\bin\Debug\Ostoslista.exe.config
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\Ostoslista\Ostoslista\bin\Debug\Ostoslista.exe
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\Ostoslista\Ostoslista\bin\Debug\Ostoslista.pdb
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\Ostoslista\Ostoslista\obj\Debug\Ostoslista.csproj.AssemblyReference.cache
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\Ostoslista\Ostoslista\obj\Debug\Ostoslista.csproj.CoreCompileInputs.cache
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\Ostoslista\Ostoslista\obj\Debug\Ostoslista.exe
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\Ostoslista\Ostoslista\obj\Debug\Ostoslista.pdb
