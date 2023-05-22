@@ -1,0 +1,7 @@
+C:\Users\pauli.kumpulainen\Documents\GitHub\Csharp-perusteet\CsharpHarj\CsharpHarj\bin\Debug\CsharpHarj.exe.config
+C:\Users\pauli.kumpulainen\Documents\GitHub\Csharp-perusteet\CsharpHarj\CsharpHarj\bin\Debug\CsharpHarj.exe
+C:\Users\pauli.kumpulainen\Documents\GitHub\Csharp-perusteet\CsharpHarj\CsharpHarj\bin\Debug\CsharpHarj.pdb
+C:\Users\pauli.kumpulainen\Documents\GitHub\Csharp-perusteet\CsharpHarj\CsharpHarj\obj\Debug\CsharpHarj.csproj.AssemblyReference.cache
+C:\Users\pauli.kumpulainen\Documents\GitHub\Csharp-perusteet\CsharpHarj\CsharpHarj\obj\Debug\CsharpHarj.csproj.CoreCompileInputs.cache
+C:\Users\pauli.kumpulainen\Documents\GitHub\Csharp-perusteet\CsharpHarj\CsharpHarj\obj\Debug\CsharpHarj.exe
+C:\Users\pauli.kumpulainen\Documents\GitHub\Csharp-perusteet\CsharpHarj\CsharpHarj\obj\Debug\CsharpHarj.pdb
