@@ -10,55 +10,35 @@ namespace CodeWars
     {
         static void Main(string[] args)
         {
-            // testaus
-           if (CountPositivesSumNegatives(new int[] { 5, 3, 8, -5, -9, 3 }) == new int[] { 4, -14 })
-           {
-                Console.WriteLine("Metodi toimii.");
-           }
+           
 
             Console.ReadKey();
         }
-        public static int[] CountPositivesSumNegatives(int[] input)
+        public static string Compare(int a, int b)
         {
-            // Luodaan uusi taulukko, johon tallennetaan palautettavat arvot
-            int[] result = new int[2];
+            string numberA = a.ToString();
+            string numberB = b.ToString();
 
-
-            // Lasketaan input-taulukosta positiivisien arvojen lukumäärä.
-            // for silmukka toimii
-            //foreach (int number in input)
-            //{
-            //    // Tarkistetaan, että arvo on positiivinen
-            //    if (number > 0)
-            //    {
-            //        result[0]++;
-            //    }
-            //    else
-            //    {
-            //        result[1] += number;
-            //    }
-            //}
-
-            for (int i = 0; i < input.Length; i++)
+            if (numberA == numberB || numberA[0] == numberB[1] && numberA[1] == numberB[0])// 100%
             {
-                if (input[i] > 0)
-                {
-                    //Kasvatetaan positiivisien arvojen lukumäärän kasvua.
-                    result[0]++;
-                }
-                else // negatiiviset arvot.
-                {
-                    // summataan negatiiviset arvot.
-                    result[1] = result[1] + input[i];
-                }
+                return "100%";
             }
-
-            
-
-            return result; 
+            else if (numberA[0] == numberB[0] ||    //50%
+                numberA[1] == numberB[1] ||
+                numberA[0] == numberB[1] ||
+                numberA[1] == numberB[0])
+            {
+                // 12 13
+                // 21 13
+                // 12 31
+                // 21 31
+                return "50%";
+            }
+            else
+            {
+                return "0%";
+            }
         }
-
-
-
+        
     }
 }

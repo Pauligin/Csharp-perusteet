@@ -1,0 +1,7 @@
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\PitsanTilaus\PitsanTilaus\bin\Debug\PitsanTilaus.exe.config
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\PitsanTilaus\PitsanTilaus\bin\Debug\PitsanTilaus.exe
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\PitsanTilaus\PitsanTilaus\bin\Debug\PitsanTilaus.pdb
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\PitsanTilaus\PitsanTilaus\obj\Debug\PitsanTilaus.csproj.AssemblyReference.cache
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\PitsanTilaus\PitsanTilaus\obj\Debug\PitsanTilaus.csproj.CoreCompileInputs.cache
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\PitsanTilaus\PitsanTilaus\obj\Debug\PitsanTilaus.exe
+C:\Users\Tietokone\OneDrive\Tiedostot\GitHub\Csharp-perusteet\PitsanTilaus\PitsanTilaus\obj\Debug\PitsanTilaus.pdb
